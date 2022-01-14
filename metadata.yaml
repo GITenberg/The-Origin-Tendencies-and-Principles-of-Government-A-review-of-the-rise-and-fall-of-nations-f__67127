@@ -1,5 +1,8 @@
 _repo: The-Origin-Tendencies-and-Principles-of-Government-A-review-of-the-rise-and-fall-of-nations-f__67127
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67127-h/images/cover.jpg
 creator:
   author:
     agent_name: Woodhull, Victoria C. (Victoria Claflin)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53120
     wikipedia: https://en.wikipedia.org/wiki/Victoria_Woodhull
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67127#The-Origin-Tendencies-and-Principles-of-Government-A-review-of-the-rise-and-fall-of-nations-f_
 gutenberg_issued: '2022-01-08'
 identifiers:
   gutenberg: '67127'
